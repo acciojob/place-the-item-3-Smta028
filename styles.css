@@ -1,10 +1,10 @@
-.container{
+.holder{
 	display:flex;
 	background-color:yellow;
 	 flex-wrap: wrap;
 	justify-content:space-evenly;
 }
-.holder{
+.item{
 	background-color:blue;
 	margin:2px;
 	padding:20px;
